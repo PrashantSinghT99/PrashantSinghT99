@@ -5,7 +5,7 @@
 
 I am a **Software Development Engineer in Test (SDET)** with **4+ years of experience** specializing in the intersection of **Quality Assurance, DevOps, and AI**. Currently, I work in the **Operations & Quality Team**, ensuring the stability of AI-driven security platforms.
 
-My work has evolved from traditional automation to engineering robust **Agentic AI SOC applications**.
+My work has evolved from traditional insurance and security applications automation to engineering robust **Agentic AI applications**.
 
 - 🔭 **I’m currently working on:** Engineering validation frameworks for **Agentic AI applications** and developing automated tools for **Web/API Performance & Security**.-
 - 🛠 **My daily driver:** Architecting end-to-end automation for **Web, Mobile, and API** microservices while managing production deployments.
