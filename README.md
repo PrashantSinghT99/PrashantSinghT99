@@ -3,15 +3,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.softest.co/wp-content/uploads/2022/07/giphy-SDET1.gif">
 
-- 🔭 I’m currently working as **Software Development in Test**
+I am a **Software Development Engineer in Test (SDET)** with **4+ years of experience** specializing in the intersection of **Quality Assurance, DevOps, and AI**. Currently, I work in the **Operations & Quality Team**, ensuring the stability of AI-driven security platforms.
 
-- 🌱 I’m currently learning **Python, Playwright, Node, Express JS, AWS**
+My work has evolved from traditional automation to engineering robust **Agentic AI SOC applications**.
 
-- 🤝 I’m looking for help with **building applications for the future.**
-
-- 💬 Ask me about **Selenium, Cypress, Appium, Webdriver IO, Rest Assured, React, React Native, Redux, Javascript, Tailwind CSS, Bootstrap, NodeJs, ExpressJs, Html/CSS, UI & API Automation**
-
-- 📫 How to reach me **prashantsinghtariyal@gmail.com**
+- 🔭 **I’m currently working on:** Engineering validation frameworks for **Agentic AI applications** and developing automated tools for **Web/API Performance & Security**.-
+- 🛠 **My daily driver:** Architecting end-to-end automation for **Web, Mobile, and API** microservices while managing production deployments.
+- 💡 **I’m interested in:** System Observability, GitOps, and optimizing ML Model efficacy.
+- 🚀 **Operations Focus:** I handle domain enabling, release engineering, and fixing critical prod issues in global clusters.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
