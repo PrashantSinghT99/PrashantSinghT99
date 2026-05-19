@@ -18,4 +18,13 @@ My work has evolved from traditional insurance and security applications automat
 
 <h3 align="left">Check My Portfolio:</h3>
 <p align="left">
-<a href="https://github-portfolio-pst99.vercel.app/" target="_blank"><img align="center" src="https://www.mediabistro.com/wp-content/uploads/2016/02/xtips-on-getting-your-copywriter-portfolio-started.jpg.pagespeed.ic.77BXUmgEN5.webp" alt="prashant singh portfolio" height="60" width="80" /></a>
+<a href="https://github-portfolio-pst99.vercel.app/" target="_blank">
+  <img 
+    align="center" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    alt="prashant singh portfolio" 
+    height="60" 
+    width="80" 
+  />
+</a>
+</p>
