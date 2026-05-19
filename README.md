@@ -21,7 +21,7 @@ My work has evolved from traditional insurance and security applications automat
 <a href="https://github-portfolio-pst99.vercel.app/" target="_blank">
   <img 
     align="center" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=400&auto=format&fit=crop" 
     alt="prashant singh portfolio" 
     height="60" 
     width="80" 
